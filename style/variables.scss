@@ -1,0 +1,18 @@
+@import 'fonts.scss';
+
+/*======= Font family =======*/
+
+$primary-poppins-bold: 'PoppinsBold';
+$primary-poppins-semibold: 'PoppinsSemiBold';
+$primary-opensans-regular: 'OpenSansRegular';
+$primary-opensans-bold: 'OpenSansBold';
+$font-path: "./fonts" !default;
+
+/*======= Font Colors =======*/
+
+$backgroundColor: #E7EDF6;
+$headerFont: #FF0066;
+$cardHeaderColor: #2B2ECF;
+$tagBgColor: #F6C937;
+$bannerBgColor: linear-gradient(135deg, #2B2ECF 0%, #652BCF 100%);
+$toggleSwitchBgColor: #2B2ECF;
